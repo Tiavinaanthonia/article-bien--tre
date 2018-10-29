@@ -1,0 +1,40 @@
+h1{
+    Color:#FFFF00;
+    background-image:url("https://www.apizen.fr/wp-content/uploads/2017/05/large-bien-etre.jpg");
+    padding:2em;
+	border-radius:1em;
+	font-size:50px;
+	border:5px solid #FFFF00;
+	font-family:"Goudy Bookletter 1911", sans-serif;
+  background-size: cover;
+}
+p{
+    background-color:#AFEEEE;
+    color:#191970;
+    padding:2em;
+}
+ul{
+    color:#191970;
+}
+body{
+    background-color:#FFFFFF;
+    padding:10px;
+    margin:2em;
+    border:5px solid #191970;
+    margin-left: 250px;
+    margin-right: 250px;
+
+
+}
+h2{
+    color:#FFFF00;
+    background-color:#191970;
+    padding:1em;
+    border-radius:1em;
+}
+#relax{
+    background-image:url("http://www.corinnepierrebienetre.com/wp-content/uploads/2017/06/cropped-maxresdefault-2-1.jpg");
+    width:820px;
+    height:250px;
+    background-size:cover;
+}
